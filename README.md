@@ -11,5 +11,5 @@ npm install
 ### Run
 
 ```
-npm run devStart.js
+npm run devStart
 ```
